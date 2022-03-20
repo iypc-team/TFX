@@ -1,7 +1,10 @@
 [
-  "0_Mobilenet_v2.ipynb",
+  "0_Mobilenet_v2-2.ipynb",
   "__pycache__",
   "images",
+  "initialGlobList.json",
+  "Defcon4_mobilenet_v2_Dynamic.tflite",
+  "labels.txt",
   "DataGenerator",
   "All_Installs_4.ipynb",
   "Tensorflow_Datasets_3.ipynb",
@@ -14,6 +17,7 @@
   "All_Installs_3.ipynb",
   "Defcon4_fp16.tflite",
   "All_CV2_Images.tar.gz",
+  "0_Mobilenet_v2.ipynb",
   "Mobilenet_Test.ipynb",
   "Untitled1.ipynb",
   "DataGenerator2.tar.gz",
@@ -47,6 +51,5 @@
   "DataGenerator.tar.gz",
   "Tensorflow_Datasets.ipynb",
   "Defcon4_Sequential_model_8.ipynb",
-  "Tensorflow_Datasets_2.ipynb",
-  "initialGlobList.json"
+  "Tensorflow_Datasets_2.ipynb"
 ]
